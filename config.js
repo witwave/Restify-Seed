@@ -2,7 +2,7 @@ exports.api = {
   name: 'Seed',
   version: '0.0.1',
   secret: 'app_secret'
-}
+};
 
 exports.environment = {
   name: 'development',
