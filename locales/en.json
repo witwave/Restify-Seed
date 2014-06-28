@@ -1,0 +1,5 @@
+{
+    "throttling_notice": "Too many requests!",
+    "foo_bop_validation": "Bar must be supplied!",
+    "foo_greeting": "Hello, World!"
+}
