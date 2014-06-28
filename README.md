@@ -4,8 +4,7 @@ Starting point for building a scalable [Restify](http://mcavage.me/node-restify/
 
 ##Example##
 See ```./routes/foo.js```:
-```js 
-api.post('/baz/:id', ... ```
+```api.post('/baz/:id', ... ```
 ...and follow the code along to the controller and model to get a feel for how the codebase is structured.
 
 ##Includes:##
@@ -16,7 +15,7 @@ Helps separate concerns, ensuring a maintainable codebase.
 __Content Negotiation__
 
 JSON (or XML) response is available via:
-```js
+```
 Accept: application/json
 ```
 
