@@ -62,6 +62,10 @@ __Load Balancer__
 
 If a load balancer is desired, consider [node-harmony](https://www.npmjs.org/package/node-harmony)
 
+__Production Process Managemernt__
+
+If a process manager is desired, consider [pm2](https://github.com/unitech/pm2)
+
 
 ##Installation
 Ensure Redis is installed on your platform, clone this repo (will have an NPM link up soon), cd to dir with package.json:
