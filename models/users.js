@@ -14,7 +14,7 @@ module.exports = function(req, res, next) {
     /*
     var pw = crypt.PBKDF2(password, this.app_secret) {
       keySize: 512/32,
-      iterations: 10 
+      iterations: 12 
     }).toString()
     */
     
