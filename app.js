@@ -79,4 +79,4 @@ file_system.readdirSync('./routes').forEach(function (cur_file) {
   }
 });
 
-api.listen(1337);
+api.listen(config.environment.port);

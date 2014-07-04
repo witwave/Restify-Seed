@@ -12,7 +12,8 @@ exports.environment = {
     smtp_host: 'smtp.app.com',
     ssl: true
   },
-  bug_reciever_email: 'bugrecieve@app.com'
+  bug_reciever_email: 'bugrecieve@app.com',
+  port: 1337
 };
 
 exports.redis = {
