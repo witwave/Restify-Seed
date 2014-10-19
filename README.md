@@ -168,8 +168,8 @@ this.generateQ3Report = function() {
 		var worker = new Parallel();
 	
 		worker.spawn(function() {
-				//long running number crunch operation here...
-				var report = '<resulting data here>';
+			//long running number crunch operation here...
+			var report = '<resulting data here>';
 
 			return report;
 		})
