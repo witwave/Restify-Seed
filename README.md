@@ -8,6 +8,7 @@ Implementing a sensible abstraction, Restify Seed allows developers to stand up 
 
 ####_Installation_
 ```shell
+# as root...
 $ git clone https://github.com/MatthewVita/Restify-Seed.git
 $ cd Restify-Seed
 $ npm install
