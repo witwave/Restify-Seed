@@ -22,7 +22,7 @@ $ node app.js
 ...then open up browser to [localhost:1337/api/calendar/weekday](localhost:1337/api/calendar/weekday)
 
 ####_Structure_
-_(__TL;DR:__ just follow the provided "Calendar" application sample files in the project for an idea of how this seed project structures the code.)_
+_(TL;DR: just follow the provided "Calendar" application sample files in the project for an idea of how this seed project structures the code.)_
 
 Restify Seed adheres to the Model-View-Controller pattern (where "Views" are simply the JSON output to be consumed by a client). Below are some example snippets of how to structure your code:
 
